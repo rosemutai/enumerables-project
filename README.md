@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Morse-code</b></h3>
+  <h3><b>Enumerables Project</b></h3>
 
 </div>
 
@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Morse-code ](#-morse-code-)
+- [📖 Enumerables-Project ](#-enumerables-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,12 +29,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse-code <a name="about-project"></a>
+# 📖 Enumerables-Project <a name="about-project"></a>
 
 <img src="./diagram.png" alt="database schema diagram">
 
-**Morse-code** is a simple program made with Ruby that automates the process of decrypting messages written
-in <a href="https://en.wikipedia.org/wiki/Morse_code">Morse code</a>
+**Enumerables-Project** is a simple program developed to use a module inside a Ruby class. The module 'MyEnumerable' implements a subset of the functionality of <a href="https://ruby-doc.org/core-3.0.0/Enumerable.html">Enumerable</a>.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,8 +50,8 @@ in <a href="https://en.wikipedia.org/wiki/Morse_code">Morse code</a>
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode a Morse code**
 - **Set up Ruby linters**
+- **Ruby best practices and language style guides in code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +73,7 @@ In order to run this project you need:
 ### Setup
 
 Install Ruby
-Go to github and find the repository morse-code
+Go to github and find the repository enumerables-project
 Click on code and copy then go to your gitbash cli on your computer Clone this repository to your desired folder
 
 <!--
@@ -82,14 +81,13 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:rosemutai/morse-code.git
+  git clone git@github.com:rosemutai/enumerables-project.git
 ```
 --->
 
 ### Usage
 
 To run the project, execute the queries in the files
-ruby morsecode.rb
 
 ### Deployment
 
@@ -100,7 +98,7 @@ GitHub Pages
 Example:
 
 ```sh
-  git@github.com:rosemutai/morse-code.git
+  git@github.com:rosemutai/enumerables-project.git
 ```
  -->
 
@@ -137,7 +135,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rosemutai/morse-code/issues).
+Feel free to check the [issues page](https://github.com/rosemutai/enumerables-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,6 +159,6 @@ I would like to thank Microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/rosemutai/morse-code/blob/decode-message/LICENSE) licensed.
+This project is [MIT](https://github.com/rosemutai/enumerables-project/blob/decode-message/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
