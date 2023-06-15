@@ -2,13 +2,13 @@ require_relative 'my_enumerable'
 
 class MyList
   include MyEnumerable
-    def initialize(the_list)
-      @list = the_list
-    end
+  def initialize(the_list)
+    @list = the_list
+  end
 
-    def each
-      @list.each
-    end
+  def each
+    @list.each
+  end
 end
 
 list = MyList.new([1, 2, 3, 4])
