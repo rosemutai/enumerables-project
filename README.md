@@ -31,8 +31,6 @@
 
 # 📖 Enumerables-Project <a name="about-project"></a>
 
-<img src="./diagram.png" alt="database schema diagram">
-
 **Enumerables-Project** is a simple program developed to use a module inside a Ruby class. The module 'MyEnumerable' implements a subset of the functionality of <a href="https://ruby-doc.org/core-3.0.0/Enumerable.html">Enumerable</a>.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -159,6 +157,6 @@ I would like to thank Microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/rosemutai/enumerables-project/blob/decode-message/LICENSE) licensed.
+This project is [MIT](https://github.com/rosemutai/enumerables-project/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
